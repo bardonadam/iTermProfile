@@ -1,10 +1,10 @@
 {
   "Ansi 4 Color" : {
-    "Red Component" : 0,
+    "Red Component" : 0.0020904541015625,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.73333333333333328,
+    "Blue Component" : 1,
     "Alpha Component" : 1,
-    "Green Component" : 0.43529411764705883
+    "Green Component" : 0.7112981416285038
   },
   "Tags" : [
 
@@ -352,9 +352,9 @@
   "Link Color" : {
     "Red Component" : 0,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.73423302173614502,
+    "Blue Component" : 1,
     "Alpha Component" : 1,
-    "Green Component" : 0.43738490552641451
+    "Green Component" : 0.70980392156862748
   },
   "Ansi 5 Color" : {
     "Green Component" : 0,
